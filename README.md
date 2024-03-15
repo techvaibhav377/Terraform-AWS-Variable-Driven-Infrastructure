@@ -24,4 +24,4 @@ Tasks Completed
 >> Instance Launching: Launched instances in both public and private subnets, specifying instance types, AMIs, key pairs, and security groups.
 >> Security Group Definition: Defined a security group allowing inbound SSH and ICMP traffic and all outbound traffic.
 >> Key Pair Creation: Created an AWS key pair for SSH access to instances.
->> Output Definition: Defined output values including VPC ID and subnet IDs for reference.
+>> Output Definition: Defined output values including VPC ID and subnet IDs for reference.  (Disabled in this repo but you can enable it by removing ext. .dis)
